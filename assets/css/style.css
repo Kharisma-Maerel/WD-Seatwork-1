@@ -61,7 +61,7 @@
 .company-name {
     text-align: center;
        font-size: 1rem;
-       color:#0B1D51 ;
+       color:black ;
    }
 .logo {
        max-width: 6rem;
@@ -85,9 +85,9 @@
        
 &:hover {
            transform: translateX(2.6px) translateY(5.1px);
-           box-shadow: inset 113px 0 0 0 #8CCDEB;
+           box-shadow: inset 113px 0 0 0 black;
            cursor: pointer;
-           color:black;
+           color:#8CCDEB;
        }
    }
 
