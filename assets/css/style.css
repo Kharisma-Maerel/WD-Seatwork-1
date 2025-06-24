@@ -167,6 +167,7 @@
    background-color: #7c68b1;
 }
 
+
 .header3 .logo {
    max-width: 13rem;
 }
@@ -192,7 +193,7 @@
 
 .header4 {
    position:relative;
-   background-image: url(https://i.pinimg.com/1200x/8c/ce/22/8cce2257de655c76438b827c63049fd2.jpg);
+   background-image: url(https://i.pinimg.com/1200x/8a/b3/ef/8ab3ef08604b5862de2af2ffa6ed50ee.jpg);
    background-size: 100%;
    background-position: center;
    background-repeat: no-repeat;
@@ -204,9 +205,18 @@
    background-color: #7c68b1;
 }
 
+.company-name2 {
+   font-size: 2rem;
+   color: #3a0101;
+}
+
+.logo2 {
+   max-width: 7rem;
+}
+
 .left-btn2, .right-btn2 {
-  background: linear-gradient(to right, white, #2ebde5);
-  color: #0d404e;
+  background: linear-gradient(to right, #3a0101, #9b1515);
+  color:white;
   border: none;
   padding: 10px 20px;
   border-radius: 100px;
@@ -214,9 +224,41 @@
 }
 
 .left-btn2:hover, .right-btn2:hover {
-  box-shadow: 0 0 20px #2ebde5, 0 0 40px white;
-  color: #1a8baa;
+  box-shadow: 0 0 20px #000000, 0 0 40px white;
+  color: #a84545;
 }
+
+.header5{
+    position:relative;
+   background-image: url(https://i.pinimg.com/1200x/b6/e9/52/b6e952ba9cc833a07ce3b61ed8c50b6d.jpg);
+   background-size: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 180px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 3rem 19rem;
+   background-color: #7c68b1;
+}
+.company-name3 {
+   font-size: 2rem;
+   color: #3a0101;
+}
+
+.logo3 {
+   max-width: 7rem;
+}
+.left-btn3, .right-btn3 {
+  border-radius: 0;
+  transition: border-radius 0.3s ease;
+}
+
+.left-btn3, .right-btn3:hover {
+  border-radius: 10px;
+}
+
+
 
 
 
@@ -259,17 +301,18 @@
 }
 
 .sitefooter4 {
-   background-image: url(https://i.pinimg.com/1200x/8c/ce/22/8cce2257de655c76438b827c63049fd2.jpg);
+  background-image: url(https://i.pinimg.com/1200x/8a/b3/ef/8ab3ef08604b5862de2af2ffa6ed50ee.jpg);
    background-size: 100%;
    background-position: center;
    background-repeat: no-repeat;
-   color: white;
    text-align: center;
    padding: 20px; 
 }
 .sitefooter5 {
-  background-color: black;
-   color: white;
+ background-image: url(https://i.pinimg.com/1200x/b6/e9/52/b6e952ba9cc833a07ce3b61ed8c50b6d.jpg);
+   background-size: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
    text-align: center;
    padding: 20px; 
 }
