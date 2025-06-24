@@ -59,9 +59,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-the project is a practice of making a website's headers and footers. The main purpose of this project was to have a hands-on experience in making a header and footer, along side using the different ways of using photos and texts. Some key components found are different text and image placements and button transitions or effects. 
+The project is a practice of making a website's headers and footers. The main purpose of this project was to have a hands-on experience in making a header and footer, along side using the different ways of using photos and texts. Some key components found are different text and image placements and button transitions or effects. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -115,4 +113,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Header Samples | Inspiration for the headers | https://ph.pinterest.com/pin/31947478601798150/ |
+| Background Remover | Removing unnecessary Background | https://www.remove.bg/ |
+
