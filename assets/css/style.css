@@ -12,14 +12,14 @@
     justify-content: space-between;
 }
  
-.header {
+.headerMain {
    display: flex;
    align-items: center;
    padding: 1rem 2rem;
    justify-content: space-between;
    background-color: rgb(255, 171, 171);
-   .left{
-       align-items: center;
+.left{
+       align-items:;
        display: flex;
        gap: 0.5rem;
    }
@@ -63,7 +63,7 @@
  
 }
  
-.footer {
+.footerMain {
     display: flex;
     justify-content: center;
     align-items: center;
