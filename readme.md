@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/Kharisma-Maerel/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/khari.png" alt="Nyebe" width="130" height="100">
+    <img src="/assets/img/khari.png" alt="khari" width="400" height="400">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">School Activities</h3>
+  <h3 align="center">WD-Seatwork-1</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -22,7 +22,7 @@
 <!-- TODO: Change the WD-Seatwork-1 into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=Kharisma-Maerel/WD-Seatwork-1)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/@6b0461c1-4f4b-4d64-9517-5b588d531d3c/projects/zsonwphkok?start=2025-06-18&end=2025-06-24.svg)](https://wakatime.com/@6b0461c1-4f4b-4d64-9517-5b588d531d3c/projects/zsonwphkok?start=2025-06-18&end=2025-06-24)
 
 ---
 
@@ -61,18 +61,14 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+the project is a practice of making a website's headers and footers. The main purpose of this project was to have a hands-on experience in making a header and footer, along side using the different ways of using photos and texts. Some key components found are different text and image placements and button transitions or effects. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Headers and Footers
+- Button transitions
+- Different formats and placements of images
 
 ### Technology
 <!-- TODO: List of Technology Used -->
