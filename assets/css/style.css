@@ -186,7 +186,39 @@
 
 .image-btn:hover img {
    transform: scale(1.05);
+   box-shadow: 0 6px 12px grey;
 }
+
+
+.header4 {
+   position:relative;
+   background-image: url(https://i.pinimg.com/1200x/8c/ce/22/8cce2257de655c76438b827c63049fd2.jpg);
+   background-size: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 180px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 3rem 19rem;
+   background-color: #7c68b1;
+}
+
+.left-btn2, .right-btn2 {
+  background: linear-gradient(to right, white, #2ebde5);
+  color: #0d404e;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 100px;
+  transition: box-shadow 0.3s ease;
+}
+
+.left-btn2:hover, .right-btn2:hover {
+  box-shadow: 0 0 20px #2ebde5, 0 0 40px white;
+  color: #1a8baa;
+}
+
+
 
 .hero {
    width: 100%;
@@ -198,35 +230,45 @@
 }
 
 .sitefooter {
-   background-color: black;
+   background-color:rgb(255, 171, 171);
+   color: rgb(222, 65, 65);
+   text-align: center;
+   padding: 20px;
+}
+
+.sitefooter1 {
+   background-color: #695996;
    color: white;
    text-align: center;
    padding: 20px; 
 }
 
-.sitefooter {
-   background-color: black;
-   color: white;
+.sitefooter2 {
+   background-color:  rgb(187, 181, 181);
+   color: black;
    text-align: center;
    padding: 20px; 
 }
 
-.sitefooter {
-   background-color: black;
-   color: white;
+.sitefooter3 {
+    background-image: url(https://i.pinimg.com/1200x/85/75/8c/85758c4cf87285f8e02c5ce78ab4fbd9.jpg);
+    background-position: center;
+   color: palevioletred;
    text-align: center;
    padding: 20px; 
 }
 
-.sitefooter {
-   background-color: black;
+.sitefooter4 {
+   background-image: url(https://i.pinimg.com/1200x/8c/ce/22/8cce2257de655c76438b827c63049fd2.jpg);
+   background-size: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
    color: white;
    text-align: center;
    padding: 20px; 
 }
-
-.sitefooter {
-   background-color: black;
+.sitefooter5 {
+  background-color: black;
    color: white;
    text-align: center;
    padding: 20px; 
